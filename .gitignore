@@ -350,6 +350,4 @@ MigrationBackup/
 .ionide/
 
 # Additionals
-*.db
-*.db-shm
-*.swp
+.vs/
