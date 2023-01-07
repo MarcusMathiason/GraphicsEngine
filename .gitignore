@@ -351,3 +351,4 @@ MigrationBackup/
 
 # Additionals
 .vs/
+GraphicsEngine/Debug/
